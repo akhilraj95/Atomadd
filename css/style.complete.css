@@ -9110,7 +9110,7 @@ fieldset[disabled] .navbar-inverse .navbar-btn.active {
     height: 70px;
     padding-top: 20px;
     background-color: #233447;
-    position: absolute;
+    position: relative;
     width: 100%;
     bottom: 0;
 }
