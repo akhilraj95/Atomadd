@@ -13,7 +13,7 @@
     							<button data-target="#navbar-collapse-02" data-toggle="collapse" class="navbar-toggle" type="button">
     								<span class="sr-only">Toggle navigation</span>
     							</button>
-    							<a href="#" class="navbar-brand brand"> Halumulu</a>
+    							<a href="index.php" class="navbar-brand brand"> Halumulu</a>
    							</div>
     								
     						<div id="navbar-collapse-02" class="collapse navbar-collapse">
