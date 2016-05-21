@@ -13,15 +13,15 @@
     							<button data-target="#navbar-collapse-02" data-toggle="collapse" class="navbar-toggle" type="button">
     								<span class="sr-only">Toggle navigation</span>
     							</button>
-    							<a href="#" class="navbar-brand brand"> Halumalu</a>
+    							<a href="#" class="navbar-brand brand"> Halumulu</a>
    							</div>
     								
     						<div id="navbar-collapse-02" class="collapse navbar-collapse">
     							<ul class="nav navbar-nav">			      
-    								<li class="active propClone"><a href="#">Dashboard</a></li>
-    								<li class="propClone"><a href="#">Pricing</a></li>
-    								<li class="propClone"><a href="#">Guide</a></li>
-    								<li class="propClone"><a href="#">Contact</a></li>
+    								<li id="navbar-opt-1" class="propClone"><a href="StlView.php">Dashboard</a></li>
+    								<li id="navbar-opt-2" class="propClone"><a href="#">Pricing</a></li>
+    								<li id="navbar-opt-3" class="propClone"><a href="#">Guide</a></li>
+    								<li id="navbar-opt-4" class="propClone"><a href="#">Contact</a></li>
     							</ul> 		      
     							<ul class="nav navbar-nav navbar-right">
     								<li class="propClone">
