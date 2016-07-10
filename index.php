@@ -3,16 +3,17 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="generator" content="Script Eden ( http://scripteden.net/ ) Template Builder v2.0.0">  
-    <!--pageMeta-->
 
+    <?php include ('include/googleSignIn.php'); ?>
+
+
+    <!--pageMeta-->
     <!-- Loading Bootstrap -->
     <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
 
     <!-- Loading Flat UI -->
     <link href="css/flat-ui.css" rel="stylesheet">
-    
     <link href="css/style.css" rel="stylesheet">
-
     <link href="css/style.complete.css" rel="stylesheet">
     
 
@@ -33,7 +34,8 @@
 
     	<!-- Start Content Block 1-4 -->
 
-	<section id="content-1-4" class="content-block-nopad content-1-4">
+
+    	<section id="content-1-4" class="content-block-nopad content-1-4">
 		<div class="image-container col-md-5 col-sm-3 pull-left">
 		
 			<div class="background-image-holder"></div><!-- Background Image -->
@@ -133,7 +135,7 @@
 		<div class="container text-center">
 			<div class="col-sm-10 col-sm-offset-1">
 				<div class="editContent">
-					<h2>Sign in with <strong>Halumulu</strong>, to bring your dreams to reality</h2>
+					<h2>Sign in with <strong>AtomADD</strong>, to bring your dreams to reality</h2>
 				</div>
 			</div>
 			<a href="StlView.php" class="btn btn-outline btn-outline-xl outline-light">Get Started</a>
